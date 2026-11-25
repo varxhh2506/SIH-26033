@@ -52,28 +52,8 @@ Step 4: Google OR-Tools generates the shortest multi-stop pickup and delivery ro
 Step 5: Delivery is verified via QR/OTP scan at the buyer hub, triggering instant UPI escrow settlement to the farmer.
 
 Flowchart:
-[Farmer / FPO Registration]
-          |
-          v
-[Harvest Details & Quality Update]
-          |
-          v
-[AI-Based Demand & Price Prediction]
-          |
-          v
-[Buyer Portal & Order Management]
-          |
-          v
-[Order Pooling & Logistics Planning]
-          |
-          v
-[Route Optimization & Delivery]
-          |
-          v
-[QR/OTP Delivery Verification]
-          |
-          v
-[UPI Payment to Farmers]
+<img width="551" height="757" alt="image" src="https://github.com/user-attachments/assets/7f9bd724-9322-4993-9d2d-fdb95c60a0d2" />
+
 
 ## Feasibility and Viability
 1. Analysis of the Feasibility of the Idea: Built on scalable cloud-native microservices, open-source routing solvers (Google OR-Tools), and lightweight cross-platform frameworks running on entry-level Android devices. It leverages existing registered Farmer Producer Organizations (FPOs) and local transport providers, avoiding the need for heavy upfront physical infrastructure. The sustainable 2% to 4% facilitation fee charged to bulk buyers and logistics partners keeps farmer onboarding completely free.
